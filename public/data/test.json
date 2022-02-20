@@ -1,0 +1,27 @@
+{"searched_product": [
+  {
+      "id": "1",
+      "image": "https://gream.s3.ap-northeast-2.amazonaws.com/face_2_1.png",
+      "name" : "Rather policy show miss rise article decision."
+  },
+  {
+      "id": "2",
+      "image": "https://gream.s3.ap-northeast-2.amazonaws.com/face_1_1.png",
+      "name": "Thousand hundred ready garden."
+  },
+  {
+      "id": "3",
+      "image": "https://gream.s3.ap-northeast-2.amazonaws.com/face_3_1.png",
+      "name": "Fund woman movie vote."
+  },
+  {
+      "id": "4",
+      "image": "https://gream.s3.ap-northeast-2.amazonaws.com/face_4_1.png",
+      "name": "Time somebody worker support."
+  },
+  {
+      "id": "5",
+      "image": "https://gream.s3.ap-northeast-2.amazonaws.com/face_5_1.png",
+      "name": "Whom sport information tree bad city."
+  }
+]}
